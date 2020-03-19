@@ -1,5 +1,5 @@
 {
-  "name": "react-native-conekta",
+  "name": "@cuidamimascota/react-native-conekta",
   "version": "2.0.3",
   "description": "Conekta SDK for React Native",
   "main": "index.js",
@@ -14,11 +14,11 @@
     "conekta"
   ],
   "bugs": {
-    "url": "https://github.com/zo0r/react-native-conekta/issues"
+    "url": "https://github.com/cuidamimascota/react-native-conekta"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:zo0r/react-native-conekta.git"
+    "url": "git+ssh://git@github.com:cuidamimascota/react-native-conekta.git"
   },
   "peerDependencies": {
     "react-native": ">=0.33"
