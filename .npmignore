@@ -59,3 +59,7 @@ react-native-conekta.iml
 local.properties
 conekta-ios
 conekta-android
+
+/package*/
+/cuidamimascota-react-native-conekta-*.tgz
+/yarn-error.log
