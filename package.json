@@ -1,6 +1,6 @@
 {
   "name": "@cuidamimascota/react-native-conekta",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Conekta SDK for React Native",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/",
-    "access": "restricted"
+    "access": "public"
   },
   "peerDependencies": {
     "react-native": ">=0.33"
